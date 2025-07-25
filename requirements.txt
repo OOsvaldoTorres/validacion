@@ -1,0 +1,11 @@
+# requirements.txt
+
+EasyProcess==1.1
+entrypoint2==1.1
+patool==4.0.1
+pypdf==5.6.0
+pyunpack==0.3
+rarfile
+py7zr
+extract_msg
+bs4
